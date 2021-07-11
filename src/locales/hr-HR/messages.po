@@ -264,8 +264,8 @@ msgid "Challenge Hash"
 msgstr "Hash Izazova"
 
 #: src/electron/main.tsx:345
-msgid "Chat on KeyBase"
-msgstr "Razgovaraj na KeyBase"
+msgid "Chat on Discord"
+msgstr "Razgovaraj na Discord"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:13
 msgid "Choose Number of Plots"

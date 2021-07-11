@@ -264,8 +264,8 @@ msgid "Challenge Hash"
 msgstr "Πρόσκληση κατακερματισμού"
 
 #: src/electron/main.tsx:345
-msgid "Chat on KeyBase"
-msgstr "Συνομιλήστε στο KeyBase"
+msgid "Chat on Discord"
+msgstr "Συνομιλήστε στο Discord"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:13
 msgid "Choose Number of Plots"

@@ -264,7 +264,7 @@ msgid "Challenge Hash"
 msgstr "도전 해시"
 
 #: src/electron/main.tsx:345
-msgid "Chat on KeyBase"
+msgid "Chat on Discord"
 msgstr "키베이스에서 채팅하기"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:13

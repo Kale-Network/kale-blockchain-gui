@@ -264,8 +264,8 @@ msgid "Challenge Hash"
 msgstr "Zorluk Hash Değeri"
 
 #: src/electron/main.tsx:345
-msgid "Chat on KeyBase"
-msgstr "Keybase'de Sohbet Et"
+msgid "Chat on Discord"
+msgstr "Discord'de Sohbet Et"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:13
 msgid "Choose Number of Plots"

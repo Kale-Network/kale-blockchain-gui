@@ -264,8 +264,8 @@ msgid "Challenge Hash"
 msgstr "挑戰雜湊值"
 
 #: src/electron/main.tsx:345
-msgid "Chat on KeyBase"
-msgstr "在 KeyBase 上閒聊"
+msgid "Chat on Discord"
+msgstr "在 Discord 上閒聊"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:13
 msgid "Choose Number of Plots"
