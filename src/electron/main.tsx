@@ -137,6 +137,7 @@ if (!handleSquirrelEvent()) {
           nodeIntegration: true,
           enableRemoteModule: true,
         },
+        icon:`${__dirname}/../assets/img/kale.png`,
       });
 
       if (dev_config.redux_tool) {
